@@ -13,7 +13,6 @@ The best part is the student can donate as per their wish to the mentor they lik
 # Team RAW NUTS ✨
 ### Aashish Pradhan
 ### Abhas Abhirup Behera
-### Swatishree Mahapatra.
 
 
 # Prerequisites 👨‍💻
