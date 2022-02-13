@@ -1,8 +1,7 @@
- #               Gen-O-Cademy
-![alt text](https://cdn.discordapp.com/attachments/924914911304364042/936294797038223411/unknown.png)
 
+#Rawacademy
 
-Gen-o-cademy is a one stop solution for the passionate,committed and enthusiastic teachers whose motive is to guide and contribute for the overall academic upliftment of the students especially for the under privileged and poor economic background. This platform is designed to bridge the gap among the mentors and students preparing for various different types of examinations like JEE, NEET, GATE etc. Now each and every child would be able to learn , prepare and get educated which is his/her birth’s right. 
+Rawcademy is a one stop solution for the passionate,committed and enthusiastic teachers whose motive is to guide and contribute for the overall academic upliftment of the students especially for the under privileged and poor economic background. This platform is designed to bridge the gap among the mentors and students preparing for various different types of examinations like JEE, NEET, GATE etc. Now each and every child would be able to learn , prepare and get educated which is his/her birth’s right. 
 Now education would be as easily accessible as oxygen. This platform is going to mark the beginning of a new chapter in the Indian education system. 
 
 # What is it? ⛹️‍♂️
