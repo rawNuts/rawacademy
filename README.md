@@ -132,7 +132,7 @@ Following technologies and libraries are used for the development of the website
 
 
 
-## What's next for GEN-O-cademy 
+## What's next for rawacademy 
 This project is going to be the next best education model for the future generation. We are planning to add a lot of features in it such as 
 ##### 1.Implementing better UI and UX.
 ##### 2.Implement a proprietary chat app.
