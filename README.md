@@ -1,5 +1,7 @@
 
 ## Rawacademy
+<img width="949" alt="image" src="https://user-images.githubusercontent.com/99579738/153749190-422b6fb6-2197-4172-8eb7-16eb888e5f1f.png">
+
 
 Rawcademy is a one stop solution for the passionate,committed and enthusiastic teachers whose motive is to guide and contribute for the overall academic upliftment of the students especially for the under privileged and poor economic background. This platform is designed to bridge the gap among the mentors and students preparing for various different types of examinations like JEE, NEET, GATE etc. Now each and every child would be able to learn , prepare and get educated which is his/her birth’s right. 
 Now education would be as easily accessible as oxygen. This platform is going to mark the beginning of a new chapter in the Indian education system. 
@@ -132,7 +134,7 @@ Following technologies and libraries are used for the development of the website
 
 
 
-## What's next for rawacademy 
+## What's next for raw-academy 
 This project is going to be the next best education model for the future generation. We are planning to add a lot of features in it such as 
 ##### 1.Implementing better UI and UX.
 ##### 2.Implement a proprietary chat app.
